@@ -75,7 +75,7 @@ body {
   font-family: 'Oxanium', cursive;
   font-size: 14px;
   /* margin: 25px; */
-  background-image: url("images/outer-space1.jpg");
+  background-image: url{"images/outer-space1.jpg"};
   background-repeat: repeat;
 }
 
